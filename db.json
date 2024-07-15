@@ -1,0 +1,58 @@
+{
+    "produtos": [
+      {
+        "id": "a526",
+        "nome": "Pulseira Kuromi",
+        "preco": "123,00",
+        "imagem": "hhttps://m.media-amazon.com/images/I/413zdoEbALL._AC_.jpg"
+      },
+      {
+        "id": "93d5",
+        "nome": "Verão Feminino Infantil",
+        "preco": "62,33",
+        "imagem": "https://down-br.img.susercontent.com/file/tw-11134201-7qul4-lfp3tjpuq96258"
+      },
+      {
+        "id": "b12e",
+        "nome": "Camisa Poro League of Legends",
+        "preco": "49,99",
+        "imagem": "https://montink.s3.amazonaws.com/mockups/205200/Branco_1218638.png"
+      },
+      {
+        "id": "fbb0",
+        "nome": "Pijama Naruto",
+        "preco": "149,99",
+        "imagem": "https://ae01.alicdn.com/kf/Sed14c3a3b4e14a4ba530ac2afd0051beL.jpg_640x640Q90.jpg_.webp"
+      },
+      {
+        "id": "594a",
+        "nome": "Odissey 2",
+        "preco": "499,99",
+        "imagem": "https://worldgamingplayers2015.wordpress.com/wp-content/uploads/2015/01/11287825785.jpg"
+      },
+      {
+        "id": "add5",
+        "nome": "Pijama Itachi Uchiha",
+        "preco": "249,99",
+        "imagem": "https://ae01.alicdn.com/kf/Se5ef8578ec134f55a144a8eef63d2f60l.jpg_640x640Q90.jpg_.webp"
+      },
+      {
+        "id": "5b5c",
+        "nome": "Pantufa Gengar",
+        "preco": "109,99",
+        "imagem": "https://projetofanservice.com.br/cdn/shop/files/Presentes-quentes-internos-das-sapatas-do-inverno-dos-chinelos-do-luxuoso-do-squirtle-do-patchock-de.jpg_640x640_b64321e6-156d-489d-997b-a8048ea297e6_1946x.jpg?v=1688151951"
+      },
+      {
+        "id": "94ef",
+        "nome": "Pantufa Hinara Shoyo",
+        "preco": "109,99",
+        "imagem": "https://images.tcdn.com.br/img/img_prod/460977/180_pantufa_3d_hinata_shoyo_haikyuu_hinata_sh_y_anime_manga_tamanho_unico_mkp_115785_1_468ade915cdd8f80643315bc1a6f2aa5.jpg"
+      },
+      {
+        "id": "c48c",
+        "nome": "Action Figure Itadori",
+        "preco": "95,14",
+        "imagem": "https://www.geekmagazine.com.br/wp-content/uploads/2022/02/1153547391.webp"
+      }
+    ]
+  }
