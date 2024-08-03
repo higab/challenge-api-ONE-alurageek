@@ -1,11 +1,4 @@
-{
-    "produtos": [
-      {
-        "id": "a526",
-        "nome": "Pulseira Kuromi",
-        "preco": "123,00",
-        "imagem": "https://img.ws.mms.shopee.com.br/0f2febe47150105c0dc25953efd0d8b9"
-      },
+[
       {
         "id": "93d5",
         "nome": "Verão Feminino Infantil",
@@ -17,12 +10,6 @@
         "nome": "Camisa Poro League of Legends",
         "preco": "49,99",
         "imagem": "https://montink.s3.amazonaws.com/mockups/205200/Branco_1218638.png"
-      },
-      {
-        "id": "fbb0",
-        "nome": "Pijama Naruto",
-        "preco": "149,99",
-        "imagem": "https://img.ws.mms.shopee.com.br/18cfd9f7b2415fcbefb8f37df6a410fe"
       },
       {
         "id": "594a",
@@ -48,12 +35,6 @@
         "preco": "109,99",
         "imagem": "https://images.tcdn.com.br/img/img_prod/460977/180_pantufa_3d_hinata_shoyo_haikyuu_hinata_sh_y_anime_manga_tamanho_unico_mkp_115785_1_468ade915cdd8f80643315bc1a6f2aa5.jpg"
       },
-      {
-        "id": "c48c",
-        "nome": "Action Figure Itadori",
-        "preco": "95,14",
-        "imagem": "https://www.geekmagazine.com.br/wp-content/uploads/2022/02/1153547391.webp"
-      }
     ],
     "aluraflix": [
     {
